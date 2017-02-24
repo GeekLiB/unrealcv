@@ -1,0 +1,13 @@
+*.pyc
+*~
+.DS_Store
+*.txt
+*.zip
+
+Binaries/
+Intermediate/
+Config/
+built/
+
+*.ipynb_checkpoints/
+core
